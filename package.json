@@ -1,0 +1,12 @@
+{
+  "name": "javascriptpatterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Code examples for JS Design Patterns",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrés Mijares",
+  "keywords" : "Javascript, design patters"
+  "license": "ISC"
+}

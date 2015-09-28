@@ -1,0 +1,21 @@
+{
+  "name": "designPatterns",
+  "version": "1.0.0",
+  "authors": [
+    "Andrés Mijares <andresmijares@gmail.com>"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "requirejs": "~2.1.20"
+  }
+}
