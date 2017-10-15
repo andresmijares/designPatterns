@@ -1,7 +1,7 @@
-#Design-Patterns
-Design Patters for JS course, for internal use.
+# Design-Patterns
+Design Patters for internal training at work.
 
-##Patters
+## Patters
 
     Adapter
     Composite
@@ -14,6 +14,6 @@ Design Patters for JS course, for internal use.
     Publish n Subscribe
     Strategy
 
-##Disclaimer
+## Disclaimer
 
 All this samples are not meant to used on production code but only by explain dummy behaviour the pattern itself.
